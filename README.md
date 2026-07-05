@@ -264,13 +264,6 @@ Active Member
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThanushaMuthuM&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-</p>
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -283,15 +276,6 @@ Active Member
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThanushaMuthuM&theme=tokyo-night"/>
-</p>
-
----
-
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThanushaMuthuM&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
