@@ -264,44 +264,34 @@ Active Member
 
 ---
 
-# 📈 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThanushaMuthuM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanushaMuthuM&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThanushaMuthuM&show_icons=true&theme=tokyonight"/>
+## 🔥 GitHub Streak
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanushaMuthuM&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ThanushaMuthuM&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanushaMuthuM&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThanushaMuthuM&theme=tokyo-night"/>
-
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ThanushaMuthuM&theme=algolia&row=1&column=7"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=ThanushaMuthuM&theme=algolia&no-frame=true&margin-w=15"/>
 </p>
 
 ---
